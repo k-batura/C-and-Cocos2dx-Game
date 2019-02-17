@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1466174125 source:h:\profile\desktop\c++\culminating\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
